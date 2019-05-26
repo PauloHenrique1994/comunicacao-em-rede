@@ -173,10 +173,5 @@ namespace ChatCliente
                 tcpServidor.Close();
             }
         }
-
-        private void txtLog_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

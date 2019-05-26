@@ -78,7 +78,6 @@
             this.txtLog.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtLog.Size = new System.Drawing.Size(340, 327);
             this.txtLog.TabIndex = 4;
-            this.txtLog.TextChanged += new System.EventHandler(this.txtLog_TextChanged);
             // 
             // btnConectar
             // 
